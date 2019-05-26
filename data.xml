@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<date>
+    <id>1</id>
+    <title>kali</title>
+    <image>./images/8159f088f932ea42bf0d6a274b709871kali.jpg</image>
+    <view>view.php?id=1</view>
+    <edit>edit.php?id=1</edit>
+    <delete>delete.php?id=1</delete>
+    <confirm>return confirm("Are you sure you want to delete this item?")</confirm>
+    <back>index.php</back>
+</date>
+<date>
+    <id>2</id>
+    <title>uaic</title>
+    <image>./images/20925163f84b44efca64fd634bf5c3ffuaic.jpg</image>
+    <view>view.php?id=2</view>
+    <edit>edit.php?id=2</edit>
+    <delete>delete.php?id=2</delete>
+    <confirm>return confirm("Are you sure you want to delete this item?")</confirm>
+    <back>index.php</back>
+</date>
+</root>
